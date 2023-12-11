@@ -32,10 +32,10 @@ Follow this step to run the project
 
 I hope that testing the application will be fun for you ... See you later ...
 
-[JS-url]: https://reactjs.org/
-[PY-url]: https://reactjs.org/
-[Dart-url]: https://reactjs.org/
-[Java-url]: https://reactjs.org/
+[TS-installation-url]: https://github.com/hei-school/cc-d2-my-rice-cooker-lianafinaritra/blob/feature/Typescript/README.md/
+[NET-installation-url]: https://github.com/hei-school/cc-d2-my-rice-cooker-lianafinaritra/tree/feature/C%23/README.md/
+[RUBY-installation-url]: https://github.com/hei-school/cc-d2-my-rice-cooker-lianafinaritra/tree/feature/ruby/README.md/
+[GO-installation-url]: https://github.com/hei-school/cc-d2-my-rice-cooker-lianafinaritra/tree/feature/Go/README.md/
 [TS-installation-url]: https://www.npmjs.com/package/typescript/
 [NET-installation-url]: https://dotnet.microsoft.com/en-us/download//
 [RUBY-installation-url]: https://www.ruby-lang.org/fr/documentation/installation//
