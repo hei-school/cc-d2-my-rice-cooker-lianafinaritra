@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WyskH+NPLRVyMIv5dhL5ahOwTpv09Appwowvn5wZ2J8BZRW+lq5+9pCvcnlgzqXaePrTUdPGE24zesfMFYmUiA==",
+  "success": true,
+  "projectFilePath": "E:\\HEI\\PROG5P1\\C#\\C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NITRO 5\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
